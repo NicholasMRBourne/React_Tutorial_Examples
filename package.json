@@ -1,0 +1,20 @@
+{
+  "name": "react_tutorial",
+  "version": "1.0.0",
+  "description": "React tutorial by Chris Cates",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "React",
+    "Tutorial",
+    "Chris",
+    "Cates"
+  ],
+  "author": "Chris Cates",
+  "license": "MIT"
+}

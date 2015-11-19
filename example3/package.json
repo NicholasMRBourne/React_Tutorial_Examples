@@ -1,0 +1,24 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "React Tutorials by Chris Cates",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "React",
+    "Tutorial",
+    "Chris",
+    "Cates"
+  ],
+  "author": "Chris Cates",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "reactify": "^1.1.1"
+  }
+}
